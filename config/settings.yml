@@ -1,0 +1,4 @@
+plugins:
+  discord_host:
+    default: ""
+    client: false
